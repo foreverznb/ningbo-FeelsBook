@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\67509efb58083c935e31483dc90cacf0\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1d3a2714bc1a343de5b6ff34a82c2007\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\b4013c4145bf123ea791edc6973ad368\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\b35b657b6ef6f201e06e470501d78513\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\ae9cd2412282ce67e54a59dd2f5b3aec\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\982e5b2ebf096a0953360b3579cd3a00\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\bed81293a13055768f610aeec919a4a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\998cfa896090c24aaa2fd437fbe469b8\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\df6dde7303596db9df0408c7ee4271e4\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\04c8cbb1db9669331685490f19743688\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\c3f2e74de0456d1e05f6c402b4f44992\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\c1fdb97b9001172ffc6b84585e6fb298\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\18a46117040282add5ec09ed5ddc6049\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\68862499f164519dd4104602b80d8998\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\4984a5f773a00302220023b9e061a873\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\9b255ad55759eb96d8f27f6e97c18479\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\e9c00a3e79a6678758c5fe8e76cfbe83\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\5fdeaf72b7d96f770766a78dfb20530c\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\a6cbbbd28be042b939ee4d45d5519ee3\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\06f431c3143968f46abd6d70dedcaf8c\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\a12cff047fcad1df2d01b455b82fd4eb\AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\08120c05be91a388d23fef3477c147a9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\92d49a372d65952f159b967985255575\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4e7a92609f46d18bf1c2cd065470349b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ed7085125830bf0e84603451c727717e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1d3a2714bc1a343de5b6ff34a82c2007\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1d3a2714bc1a343de5b6ff34a82c2007\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.ningbo_feelsbook.MainActivity
+ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.ningbo_feelsbook.SecondActivity
+ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:19:9-52
+	android:name
+		ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:19:19-49
+activity#com.example.ningbo_feelsbook.ThirdActivity
+ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:20:9-60
+	android:name
+		ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml:20:19-48
+uses-sdk
+INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\67509efb58083c935e31483dc90cacf0\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\67509efb58083c935e31483dc90cacf0\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1d3a2714bc1a343de5b6ff34a82c2007\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1d3a2714bc1a343de5b6ff34a82c2007\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\b4013c4145bf123ea791edc6973ad368\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\b4013c4145bf123ea791edc6973ad368\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\b35b657b6ef6f201e06e470501d78513\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\b35b657b6ef6f201e06e470501d78513\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\ae9cd2412282ce67e54a59dd2f5b3aec\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\ae9cd2412282ce67e54a59dd2f5b3aec\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\982e5b2ebf096a0953360b3579cd3a00\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\982e5b2ebf096a0953360b3579cd3a00\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\bed81293a13055768f610aeec919a4a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\bed81293a13055768f610aeec919a4a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\998cfa896090c24aaa2fd437fbe469b8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\998cfa896090c24aaa2fd437fbe469b8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\df6dde7303596db9df0408c7ee4271e4\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\df6dde7303596db9df0408c7ee4271e4\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\04c8cbb1db9669331685490f19743688\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\04c8cbb1db9669331685490f19743688\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\c3f2e74de0456d1e05f6c402b4f44992\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\c3f2e74de0456d1e05f6c402b4f44992\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\c1fdb97b9001172ffc6b84585e6fb298\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\c1fdb97b9001172ffc6b84585e6fb298\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\18a46117040282add5ec09ed5ddc6049\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\18a46117040282add5ec09ed5ddc6049\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\68862499f164519dd4104602b80d8998\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\68862499f164519dd4104602b80d8998\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\4984a5f773a00302220023b9e061a873\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\4984a5f773a00302220023b9e061a873\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\9b255ad55759eb96d8f27f6e97c18479\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\9b255ad55759eb96d8f27f6e97c18479\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\e9c00a3e79a6678758c5fe8e76cfbe83\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\e9c00a3e79a6678758c5fe8e76cfbe83\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\5fdeaf72b7d96f770766a78dfb20530c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\5fdeaf72b7d96f770766a78dfb20530c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\a6cbbbd28be042b939ee4d45d5519ee3\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\a6cbbbd28be042b939ee4d45d5519ee3\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\06f431c3143968f46abd6d70dedcaf8c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\06f431c3143968f46abd6d70dedcaf8c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\a12cff047fcad1df2d01b455b82fd4eb\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\a12cff047fcad1df2d01b455b82fd4eb\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\08120c05be91a388d23fef3477c147a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\08120c05be91a388d23fef3477c147a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\92d49a372d65952f159b967985255575\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\92d49a372d65952f159b967985255575\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4e7a92609f46d18bf1c2cd065470349b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4e7a92609f46d18bf1c2cd065470349b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ed7085125830bf0e84603451c727717e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ningbo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ed7085125830bf0e84603451c727717e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ningbo\Documents\GitHub\ningbo-FeelsBook\app\src\main\AndroidManifest.xml
